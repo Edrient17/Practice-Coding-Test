@@ -1,7 +1,7 @@
 # 세탁소 사장 동혁
 
 T = int(input())
-li = [[0]*4 for _ in range(T)] # 0으로 채워진 T x 4 행렬 생성성
+li = [[0]*4 for _ in range(T)] # 0으로 채워진 T x 4 행렬 생성
 
 for i in range(T):
     C = int(input())
